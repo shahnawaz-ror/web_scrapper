@@ -22,7 +22,7 @@ This Ruby on Rails application provides an API to scrape Y Combinator's publicly
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/yc-companies-scraper.git
+git clone https://github.com/ramshatarannum/Y_Combinator_Scraper.git
 cd yc-companies-scraper
 
 ### 2. Install dependencies
