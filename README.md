@@ -1,4 +1,4 @@
-# Y Combinator Companies Scraper API
+#  Web Scraper API
 
 ## Overview
 This Ruby on Rails application provides an API to scrape Y Combinator's publicly listed companies. The scraper can retrieve a specified number of companies with various filters and outputs the data in CSV format.
@@ -22,8 +22,8 @@ This Ruby on Rails application provides an API to scrape Y Combinator's publicly
 
 ### 1. Clone the repository
 
-git clone
-cd yc-companies-scraper
+git clone https://github.com/shahnawaz-ror/web_scrapper.git
+cd web_scrapper
 
 ### 2. Install dependencies
 
